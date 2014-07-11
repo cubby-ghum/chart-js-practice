@@ -1,0 +1,65 @@
+{
+  "name": "chart-js-practice",
+  "description": "practicing chart.js work",
+  "version": "1.8.5",
+  "homepage": "",
+  "main": "",
+  "keywords": [
+    "backbone",
+    "plugin",
+    "marionette",
+    "composite",
+    "architecture",
+    "single",
+    "page",
+    "app",
+    "client",
+    "browser"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "scripts": {
+    "bower": "./node_modules/bower/bin/bower install",
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "author": {
+    "name": "Nobody",
+    "email": "nobody@aol.com",
+    "url": "http://google.com",
+  "bugs": {
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "github": "",
+  "dependencies": {
+    "backbone.babysitter": "^0.1.0",
+    "backbone.wreqr": "^1.0.0",
+    "backbone": "1.0.0 - 1.1.2",
+    "underscore": "1.4.4 - 1.6.0"
+  },
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-contrib-jasmine": "^0.4.2",
+    "grunt-contrib-jshint": "^0.1.1",
+    "grunt-plato": "~0.1.4",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-template-jasmine-istanbul": "~0.1.1",
+    "grunt-contrib-watch": "^0.2.0",
+    "grunt-contrib-connect": "^0.1.2",
+    "load-grunt-tasks": "0.3.0",
+    "grunt-lintspaces": "^0.4.1",
+    "bower": "1.2.8",
+    "grunt-cli": "0.1.13",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-preprocess": "~4.0.0",
+    "unwrap": "^0.1.0"
+  }
+}
